@@ -1,6 +1,6 @@
 # 👨‍💻 Yuri Queiroz
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
 My name is Yuri Queiroz, I'm 22 years old, and I'm from Minas Gerais, Brazil. I'm currently studying Systems Analysis and Development at IES FAMINAS and specializing in Back-end Development through the Oracle Next Education program in partnership with Alura. I'm passionate about technology and continuous learning through networking and real-world projects.
 
