@@ -6,7 +6,7 @@ Desenvolvedor Full Stack Júnior em transição consolidada do universo comercia
 
  
 
-Cursando o último período de Análise e Desenvolvimento de Sistemas (Estácio) e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-End com Java em parceria Oracle/Alura.
+Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-End com Java em parceria Oracle/Alura.
 
  
 
