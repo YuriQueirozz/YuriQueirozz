@@ -2,7 +2,31 @@
 
 **`Desenvolvedor Full Stack`**
 
-My name is Yuri Queiroz, I'm 23 years old, and I'm from Minas Gerais, Brazil. I'm currently studying Systems Analysis and Development at IES FAMINAS and specializing in Back-end Development through the Oracle Next Education program in partnership with Alura. I'm passionate about technology and continuous learning through networking and real-world projects.
+Desenvolvedor Full Stack Júnior em transição consolidada do universo comercial para a tecnologia. Depois de anos aprimorando comunicação, gestão de CRM e foco em resultados no mercado, redirecionei essa base para a engenharia de software, unindo raciocínio analítico e capacidade de entrega.
+
+ 
+
+Cursando o último período de Análise e Desenvolvimento de Sistemas (Estácio) e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-End com Java em parceria Oracle/Alura.
+
+ 
+
+- Hard skills:
+
+Front-end: React.js com TypeScript
+
+Back-end: Node.js com TypeScript, Java (POO)
+
+Dados: MongoDB, SQL, bancos relacionais, Python para análise de dados
+
+ 
+
+- Projeto em destaque:
+
+ Sistema completo de gestão e aluguel de imóveis, desenvolvido em equipe, com front-end, back-end, banco de dados e hospedagem. Atuei na conexão com MongoDB e no desenvolvimento de partes do front-end e back-end com Node.js e React (TypeScript).
+
+ 
+
+Busco oportunidades como Trainee ou Desenvolvedor Júnior Full Stack, presencial/híbrido em Cataguases e região, ou home office. Vamos conversar? Me chame aqui!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/yuriqueirozz/">
