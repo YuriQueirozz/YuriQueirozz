@@ -6,8 +6,7 @@ Desenvolvedor Full Stack em transição consolidada do universo comercial para a
 
  
 
-Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-End com Java em parceria Oracle/Alura.
-
+Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-End com Java.
  
 
 - Projeto em destaque: Spacefy
