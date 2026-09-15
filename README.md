@@ -10,7 +10,7 @@ Cursando o último período do tecnólogo de Análise e Desenvolvimento de Siste
 
  
 
-- Projeto em destaque:
+- Projeto em destaque: Spacefy
 
  Sistema completo de gestão e aluguel de imóveis, desenvolvido em equipe, com front-end, back-end, banco de dados e hospedagem. Atuei na conexão com MongoDB e no desenvolvimento de partes do front-end e back-end com Node.js e React (TypeScript).
 
