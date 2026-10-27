@@ -1,6 +1,6 @@
 # 👨‍💻 Yuri Queiroz
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full-Stack`**
 
 Desenvolvedor Full Stack em transição consolidada do universo comercial para a tecnologia. Depois de anos aprimorando comunicação, gestão de CRM e foco em resultados no mercado, redirecionei essa base para a engenharia de software, unindo raciocínio analítico e capacidade de entrega.
 
