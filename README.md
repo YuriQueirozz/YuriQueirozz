@@ -9,9 +9,6 @@ Desenvolvedor Full Stack em transição consolidada do universo comercial para a
 Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-end.
  
 
- 
-
-Busco oportunidades como Trainee ou Desenvolvedor Júnior Full Stack, presencial/híbrido em Cataguases e região, ou home office. Vamos conversar? Me chame aqui!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/yuriqueirozz/">
