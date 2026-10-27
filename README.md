@@ -6,7 +6,7 @@ Em transição consolidada do universo comercial para a tecnologia. Depois de an
 
  
 
-Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-end.
+Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo Programa ONE - Oracle Next Education, com 332 horas de formação dedicadas a Back-end.
  
 
 
