@@ -1,4 +1,4 @@
-# 👨‍💻 Yuri Queiroz
+#Yuri Queiroz
 
 **`Desenvolvedor Full-Stack`**
 
