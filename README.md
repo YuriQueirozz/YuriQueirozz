@@ -6,12 +6,8 @@ Desenvolvedor Full Stack em transição consolidada do universo comercial para a
 
  
 
-Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-End com Java.
+Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo programa ONE (Oracle Next Education), com 332 horas dedicadas a Back-end.
  
-
-- Projeto em destaque: Spacefy
-
- Sistema completo de gestão e aluguel de imóveis, desenvolvido em equipe, com front-end, back-end, banco de dados e hospedagem. Atuei na conexão com MongoDB e no desenvolvimento de partes do front-end e back-end com Node.js e React (TypeScript).
 
  
 
