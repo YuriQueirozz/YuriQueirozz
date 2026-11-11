@@ -1,12 +1,17 @@
 # Yuri Queiroz
 
-**`Desenvolvedor Full-Stack`**
+**`Back-end Developer`**
 
-Em transição consolidada do universo comercial para a tecnologia. Depois de anos aprimorando comunicação, gestão de CRM e foco em resultados no mercado, redirecionei essa base para a engenharia de software, unindo raciocínio analítico e capacidade de entrega.
+Me chamo Yuri, tenho 23 anos e sou natural de Cataguases (MG). Estou em transição consolidada do 
+universo comercial para a tecnologia. Depois de anos aprimorando comunicação, gestão de CRM e foco 
+em resultados no mercado, redirecionei essa base para o desenvolvimento de soluções com tecnologia, 
+unindo raciocínio analítico e capacidade de entrega.
 
- 
+Formando em Análise e Desenvolvimento de Sistemas e certificado pelo Programa ONE - Oracle Next 
+Education, com 332 horas de formação dedicadas a Back-end.
 
-Cursando o último período do tecnólogo de Análise e Desenvolvimento de Sistemas e certificado pelo Programa ONE - Oracle Next Education, com 332 horas de formação dedicadas a Back-end.
+Atualmente sou aluno do curso de Desenvolvimento com IA do ecossistema Rio Pomba Valley em parceria 
+entre o Grupo Energisa com as empresas Engineering AI e Sicredi
  
 
 
