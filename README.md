@@ -2,16 +2,16 @@
 
 **`Back-end Developer`**
 
-Me chamo Yuri, tenho 23 anos e sou natural de Cataguases (MG). Estou em transição consolidada do 
-universo comercial para a tecnologia. Depois de anos aprimorando comunicação, gestão de CRM e foco 
-em resultados no mercado, redirecionei essa base para o desenvolvimento de soluções com tecnologia, 
-unindo raciocínio analítico e capacidade de entrega.
+Me chamo Yuri, tenho 23 anos e sou natural de Cataguases (MG). Cursando tecnólogo em Análise e 
+Desenvolvimento de Sistemas, estou em transição consolidada do universo comercial para a tecnologia.
 
-Formando em Análise e Desenvolvimento de Sistemas e certificado pelo Programa ONE - Oracle Next 
-Education, com 332 horas de formação dedicadas a Back-end.
+Depois de anos aprimorando comunicação, gestão de CRM e foco em resultados no mercado, redirecionei 
+essa base para o desenvolvimento de soluções com tecnologia, unindo raciocínio analítico e capacidade 
+de entrega.
 
-Atualmente sou aluno do curso de Desenvolvimento com IA do ecossistema Rio Pomba Valley em parceria 
-entre o Grupo Energisa com as empresas Engineering AI e Sicredi
+Atualmente, também sou aluno do curso de Desenvolvimento com IA do ecossistema Rio Pomba Valley 
+em parceria do Grupo Energisa e Engineering Brasil a fim de aprimorar minhas habilidades em IA aplicada 
+ao desenvolvimento e contribuir com projetos que tragam impacto real
  
 
 
