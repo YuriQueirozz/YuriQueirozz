@@ -5,7 +5,7 @@
 Me chamo Yuri, tenho 23 anos e sou natural de Cataguases (MG). Cursando tecnólogo em Análise e 
 Desenvolvimento de Sistemas, estou em transição consolidada do universo comercial para a tecnologia.
 
-Depois de anos aprimorando comunicação, gestão de CRM e foco em resultados no mercado, redirecionei 
+Com experiência em comunicação, gestão de CRM e foco em resultados no mercado, redirecionei 
 essa base para o desenvolvimento de soluções com tecnologia, unindo raciocínio analítico e capacidade 
 de entrega.
 
