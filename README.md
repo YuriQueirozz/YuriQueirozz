@@ -11,7 +11,7 @@ de entrega.
 
 Atualmente, também sou aluno do curso de Desenvolvimento com IA do ecossistema Rio Pomba Valley 
 em parceria do Grupo Energisa e Engineering Brasil a fim de aprimorar minhas habilidades em IA aplicada 
-ao desenvolvimento e contribuir com projetos que tragam impacto real
+ao desenvolvimento e contribuir com projetos que tragam impacto real.
  
 
 
