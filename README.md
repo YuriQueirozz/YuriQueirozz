@@ -1,6 +1,6 @@
 # Yuri Queiroz
 
-**`Back-end Developer`**
+**`Desenvolvimento de APIs e Sistemas Web`**
 
 Me chamo Yuri, tenho 23 anos e sou natural de Cataguases (MG). Cursando tecnólogo em Análise e 
 Desenvolvimento de Sistemas, estou em transição consolidada do universo comercial para a tecnologia.
