@@ -3,6 +3,7 @@
 **`Desenvolvimento de APIs e Sistemas Web`**
 
 Cursando tecnólogo em Análise e Desenvolvimento de Sistemas, estou em transição consolidada do universo comercial para a tecnologia. Com experiência em comunicação, gestão de CRM e foco em resultados no mercado, redirecionei essa base para o desenvolvimento de soluções com tecnologia, unindo raciocínio analítico e capacidade de entrega. Atualmente, também sou aluno do curso de Desenvolvimento com IA do ecossistema Rio Pomba Valley em parceria do Grupo Energisa e Engineering Brasil a fim de aprimorar minhas habilidades em IA aplicada ao desenvolvimento e contribuir com projetos que tragam impacto real.
+
  
 
 <p align="left">
